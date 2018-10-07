@@ -26,7 +26,7 @@ python -m http.server 3000
 **打开浏览器 localhost:3000**
 
 ## 结果
-![效果图](img/1.png)
+![效果图](img/1.PNG)
 
 ## 思路
 - 高德地图API
